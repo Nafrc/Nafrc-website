@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/bootstrap.css" type="text/css" />
+    <link rel='stylesheet' href='/stylesheets/nafrc.css' />
+    <link rel='stylesheet' href='/stylesheets/animated.css' />
+  </head>
+  <body ng-app="Nafrcworkshop" ng-controller="Nafrcworkshopproduct">
+  
+  <div class="container-fluid product-top fixed-top">
+      <div class="row justify-content-between">
+          <div class="col-4">
+            <a  href="../#/workshop"><img src="images/workshops/home.png" class="wasa"></a>
+          </div>
+          <div class="col-4">
+            <div class="wing-title">
+              <h1 class="text-nowrap font-weight-bold">
+                {{nafrcworkshop[workshopid].workshopname}}
+              </h1>
+            </div>
+          </div>  
+          <div class="col-4">
+            <div class="dropdown">
+              <img src="images/workshops/workshop.png" class="wasa dropdown-toggle" align="right"
+              id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+              >
+              
+               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a href='workshop?id=0'><div class='work-link wasa'>AGRICULTURAL WORKSHOP</div></a>
+                  <a href='workshop?id=1'><div class='work-link wasa'>AUTO MECHANIC WORKSHOP</div></a>
+                  <a href='workshop?id=2'><div class='work-link wasa'>ELECTRICAL AND ELECTRONIC WORKSHOP</div></a>
+                  <a href='workshop?id=3'><div class='work-link wasa'>FABRICATION AND WELDING WORKSHOP</div></a>
+                  <a href='workshop?id=4'><div class='work-link wasa'>FASHION FACILITIES WORKSHOP</div></a>
+                  <a href='workshop?id=5'><div class='work-link wasa'>FINE ARTS AND PRINTING WORKSHOP</div></a>
+                  <a href='workshop?id=6'><div class='work-link wasa'>FOOG AND BEVERAGES WORKSHOP</div></a>
+                  <a href='workshop?id=7'><div class='work-link wasa'>MANAGEMENT WORKSHOP</div></a>
+                  <a href='workshop?id=8'><div class='work-link wasa'>INFORMATION TECHNOLOGY WORKSHOP</div></a>
+                  <a href='workshop?id=9'><div class='work-link wasa'>SOAP AND COSMETICS WORKSHOP</div></a>
+                  <a href='workshop?id=10'><div class='work-link wasa'>MUSIC DEPARTMENT WORKSHOP</div></a>
+                  <a href='workshop?id=11'><div class='work-link wasa'>WOOD WORK WORKSHOP</div></a>
+                  
+              </div>
+            </div>
+          </div>
+        </div> 
+  </div>  
+  
+  <div class="container-fluid">
+      <div class="row">
+        <img src="images/workshops/workshopbana/{{nafrcworkshop[workshopid].workshopbana}}" class="img-fluid">
+      </div>
+    </div>
+    
+     <div class="container-fluid workshop-face">
+      <div class="row">
+          <div class="col-md-3" ng-repeat="prd in nafrcworkshop[workshopid].products">
+            <div class="cmd-box">
+             <div class="card">
+                 <img src="images/workshops/products/{{prd.picture}}" class="img-fluid wasa"> 
+                   
+                <div class="card-body">
+                 <h5>{{prd.name}}</h5>
+                 <span class="text-justify">{{prd.info}}</span>
+                 <br>
+                 <br>
+                 <button type="button" class="btn btn-danger">{{prd.oder}}</button>
+                </div>
+                
+          </div>
+         </div>
+        </div> 
+      </div>
+    </div>
+  
+  <footer class="container-fluid nafrc-footer">
+    <div class="col-md-12">
+     Design by Abubakar Bakari (NYSC) Powered by NAFRC Info Tech Center 
+     : AVM AA JEKENNU &copy 2017 
+    </div>
+  </footer> 
+    
+    
+  <script type="text/javascript" src="/javascripts/jquery.js"></script>
+  <script type="text/javascript" src="/javascripts/popper.js"></script>
+  <script type="text/javascript" src="/javascripts/bootstrap.js"></script>
+  <script type="text/javascript" src="/javascripts/angular.js"></script>
+  <script type="text/javascript" src="/javascripts/angularroute.js"></script>
+  <script type="text/javascript" src="/javascripts/angularanimate.js"></script>
+  <script type="text/javascript" src="/javascripts/jQueryCycle.js"></script>
+  <script type="text/javascript" src="/javascripts/angular-sanitize.js"></script>
+  <script type="text/javascript" src="/javascripts/nafrc.js"></script>
+  </dody>
+</html> 

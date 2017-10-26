@@ -1,0 +1,25 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="faceone-tilte text-center ">
+              Commissioned Projects 
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        
+         <div class="col-md-3" ng-repeat="achevepics in nafrcjsondata.achievementspics">
+            <div class="cmd-box">
+              <div class="card">
+                <img class="card-img-top" src="images/cmdachievement/{{achevepics.image}}" alt="Card image cap">
+                <div class="card-body">
+                 <h5><span class="text-justify">{{achevepics.info}}</span></h5>
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
+    
+</div>
+

@@ -1,0 +1,38 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="faceone-tilte text-center ">
+              NAFRC Work Shops
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        
+         <div class="col-md-3 text-justify" ng-repeat="workshops in nafrcjsondata.workshops">
+            <div class="cmd-box">
+              <div class="card">
+                <img class="card-img-top" src="images/workshops/{{workshops.image}}" alt="Card image cap">
+                <div class="card-body">
+                  <p class="card-text text-justify">
+                      <h4>{{workshops.name}}</h4> 
+                       {{workshops.info}}
+                     <br>
+                     <br>
+                    <a href="/workshop?id={{$index}}"> 
+                    <button type="button" class="btn btn-danger form-control wasa" style="cursor:pointer">
+                      More Information</button>
+                    </a>  
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        
+          
+          
+    </div>
+    
+</div>
+

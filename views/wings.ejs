@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/bootstrap.css" type="text/css" />
+    <link rel='stylesheet' href='/stylesheets/nafrc.css' />
+    <link rel='stylesheet' href='/stylesheets/animated.css' />
+  </head>
+  <body ng-app="Nafrcwing" ng-controller="Nafrcwing">
+    
+    <div class="container-fluid wingtop fixed-top">
+       <div class="row justify-content-between">
+          <div class="col-4">
+            <a  href="../#/training"><img src="images/wing/home.png" class="wasa"></a>
+          </div>
+          <div class="col-4">
+            <div class="wing-title">
+              <h1 class="text-nowrap font-weight-bold">
+                {{nafrcwing[wingid].wingname}}
+              </h1>
+            </div>
+          </div>  
+          <div class="col-4">
+            <div class="dropdown">
+              <img src="images/wing/workshop.png" class="wasa dropdown-toggle" align="right"
+              id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+              >
+              
+               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a href='viewwings?id=0'><div class='ach_cmd wasa'>Agriculture Wing</div></a>
+                  <a href='viewwings?id=1'><div class='ach_cmd wasa'>Auto Mechanic Wing</div></a>
+                  <a href='viewwings?id=2'><div class='ach_cmd wasa'>Buliding And Civil Work Wing</div></a>
+                  <a href='viewwings?id=3'><div class='ach_cmd wasa'>Electrical And Electronic Wing</div></a>
+                  <a href='viewwings?id=4'><div class='ach_cmd wasa'>Fabrication And Welding Wing</div></a>
+                  <a href='viewwings?id=5'><div class='ach_cmd wasa'>Fashion Facilities Wing</div></a>
+                  <a href='viewwings?id=6'><div class='ach_cmd wasa'>Fine Art And Printing Wing</div></a>
+                  <a href='viewwings?id=7'><div class='ach_cmd wasa'>Food And Beverages Wing</div></a>
+                  <a href='viewwings?id=8'><div class='ach_cmd wasa'>Information Technology Wing</div></a>
+                  <a href='viewwings?id=9'><div class='ach_cmd wasa'>Management Courses Wing</div></a>
+                  <a href='viewwings?id=10'><div class='ach_cmd wasa'>Music Department Wing</div></a>
+                  <a href='viewwings?id=11'><div class='ach_cmd wasa'>Scop And Cusmetics Wing</div></a>
+                  <a href='viewwings?id=12'><div class='ach_cmd wasa'>Wooding Works Wing</div></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+    <div class="container-fluid">
+      <div class="row">
+        <img src="images/wing/wingbana/{{nafrcwing[wingid].wingbana}}" class="img-fluid">
+      </div>
+    </div>
+    
+  <div class="container-fluid wing-face">
+      <div class="row">
+        
+        <div class="col-md-9 wing-box">
+          <div class="row">
+            
+            <div class="col-sm-6" ng-repeat="curs in nafrcwing[wingid].course">
+              <div class="wing-head">{{nafrcwing[wingid].course[$index].coursetitle}}</div> 
+                <img src="images/wing/wing_dept_bana/{{nafrcwing[wingid].course[$index].banaimage}}" class="img-fluid wing_dept_bana">
+                <div class="wing-info">
+                  <P class="text-justify">
+                    <h5 class="font-weight-bold">Course Objective</h5>
+                       <span ng-repeat="cursobj in nafrcwing[wingid].course[$index].courseobjective">
+                        &rarr;{{cursobj}}<br>
+                      </span>
+                      <h5 class="font-weight-bold">Course Outline</h5>
+                       <span ng-repeat="cursoutline in nafrcwing[wingid].course[$index].coursesoutline">
+                         &rarr;{{cursoutline}}<br>
+                       </span> 
+                       <h5 class="font-weight-bold">Duration</h5>
+                      <span>&rarr; {{nafrcwing[wingid].course[$index].duration}}</span>
+                   </P>
+                </div>
+             </div> 
+            
+            
+            
+          </div>
+        </div>
+        
+        
+        
+        
+        
+        <div class="col-md-3 wing-box">
+          <div class="wing-head">{{nafrcwing[wingid].department}}</div>
+          <div ng-repeat="deprt in nafrcwing[wingid].departmentlist">
+            <div ng-bind-html="deprt"></div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    
+    <footer class="container-fluid nafrc-footer">
+    <div class="col-md-12">
+     Design by Abubakar Bakari (NYSC) Powered by NAFRC Info Tech Center 
+     : AVM AA JEKENNU &copy 2017 
+    </div>
+  </footer> 
+    
+    
+  <script type="text/javascript" src="/javascripts/jquery.js"></script>
+  <script type="text/javascript" src="/javascripts/popper.js"></script>
+  <script type="text/javascript" src="/javascripts/bootstrap.js"></script>
+  <script type="text/javascript" src="/javascripts/angular.js"></script>
+  <script type="text/javascript" src="/javascripts/angularroute.js"></script>
+  <script type="text/javascript" src="/javascripts/angularanimate.js"></script>
+  <script type="text/javascript" src="/javascripts/jQueryCycle.js"></script>
+  <script type="text/javascript" src="/javascripts/angular-sanitize.js"></script>
+  <script type="text/javascript" src="/javascripts/nafrc.js"></script>
+  </dody>
+</html>

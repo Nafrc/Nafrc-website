@@ -1,0 +1,194 @@
+[
+ {
+     "workshopname" : "AGRICULTURAL",
+     "workshopbana" : "agr.jpg",
+     "products"     :[
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     ]
+ },
+  {
+     "workshopname" : "AUTO MECHANIC",
+     "workshopbana" : "aut.jpg",
+     "products"     :[
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "oder"    : "Oder: 08039194120"
+     },
+     {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+ {
+     "workshopname" : "BULIDING AND CIVIL",
+     "workshopbana" : "bild.jpg",
+     "products"     :[
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     ]
+ },
+  {
+     "workshopname" : "ELECTRICAL AND ELECTRONIC",
+     "workshopbana" : "elr.jpg",
+     "products"     :[
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     ]
+ },
+  {
+     "workshopname" : "FABRICATION AND WELDING",
+     "workshopbana" : "frd.jpg",
+     "products"     :[
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     ]
+ },
+  {
+     "workshopname" : "FASHION FACILITIES",
+     "workshopbana" : "fus.jpg",
+     "products"     :[
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     ]
+ },
+ {
+     "workshopname" : "FINE ARTS AND PRINTING",
+     "workshopbana" : "frd.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+ {
+     "workshopname" : "FOOD AND BEVERAGES",
+     "workshopbana" : "fd.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+ {
+     "workshopname" : "MANAGEMENT",
+     "workshopbana" : "main.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+  {
+     "workshopname" : "INFORMATION TECHNOLOGY",
+     "workshopbana" : "Info.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+   {
+     "workshopname" : "SOAP AND COSMETICS",
+     "workshopbana" : "sop.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+   {
+     "workshopname" : "MUSIC DEPARTMENT",
+     "workshopbana" : "mus.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ },
+ {
+     "workshopname" : "WOOD WORK",
+     "workshopbana" : "wd.jpg",
+     "products"     :[
+      
+         {
+         "picture" : "gen_df.jpg",
+         "name"    : "product name:",
+         "info"    : "information",
+         "price"   : "N7,000",
+         "oder"    : "Oder: 08039194120"
+     }
+     
+     ]
+ }
+ 
+ 
+]

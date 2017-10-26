@@ -1,0 +1,50 @@
+<div class="container-fluid">
+  <div class="row"> 
+      <div class="col-md-12 animated slideInDown">
+        <div class="faceone-tilte text-center font-weight-bold">
+          Welcome to NAFRC
+        </div>
+      </div> 
+  </div>
+  
+  <div class="row">
+    <div class="col-md-9">
+      <div class="row">
+         <div class="col animated slideInLeft">
+           <div class="facetwo-head">VISION</div>
+             <P class="wasa text-box">
+               {{nafrcjsondata.vission}}
+             </P>
+           </div>
+        <div class="col animated slideInLeft">
+          <div class="facetwo-head">MISSION</div>
+            <P class="wasa text-box">
+              {{nafrcjsondata.mission}}
+            </P>
+            </div>
+      </div>
+      <div class="row">
+       <div class="col-md-12 animated slideInLeft">
+          <div class="facetwo-head text-center">TRAINING OBJECTIVES</div>
+          <p class="wasa text-box">
+          Our Training Objectives Are Geared Towards Attaining The Assigned Gola
+           In Ensuring That Retiring / Discharge Military Personal Are Trained Such That
+           At The End of The Training It Is Expected That: 
+           
+           <ul  ng-repeat="objectives in nafrcjsondata.trainingobjectives">
+             <li class="text-box wasa text-justify" style="list-style-type:none;">{{objectives}}</li>
+           </ul>
+          </p>
+       </div>
+      </div>
+    </div>
+    
+    <div class="col-md-3 animated slideInUp" >
+          <div class="facetwo-head">Announcement / News / Events</div>
+       <div ng-repeat="announce in nafrcjsondata.announcement">
+         <div ng-bind-html="announce"></div>
+       </div>
+    </div>
+  </div>
+
+</div>      

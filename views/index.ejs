@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/bootstrap.css" type="text/css" />
+    <link rel='stylesheet' href='/stylesheets/nafrc.css' />
+    <link rel='stylesheet' href='/stylesheets/animated.css' />
+  </head>
+  <body ng-app='Nafrc'>
+     <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark  top-bar fixed-top" >
+      <div class="container">
+        <a class="navbar-brand" href="#/"><img src="images/nafrc.jpg" class="logo"></a>
+        <span class="navbar-text top-bar-title" style="color:#ffffff">
+          Nigerian Armed Forces Resettlement Center (NAFRC)
+        </span>
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" >
+          <span class="navbar-toggler-icon" ></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive" >
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active"><a class="nav-link" href="#/" >Home</a></li>
+                <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#/aboutnafrc" >About NAFRC </a></li>
+                <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#/training">Training </a></li>
+                <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#/workshop">Work shop </a></li>
+                <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#/contactus">Contact Us</a></li>
+                <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#/event">Events / News</a></li>
+           
+          </ul>
+        </div>
+      </div>
+    </nav>
+     <!-- Navigation -->
+     
+    <!-- Information Button -->
+   
+    <div class="container-fluid slider-box">
+      <div class="row">
+        <!--START OF SLIDER-->
+          <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              
+              <div class="carousel-item active">
+              <img class="d-block w-100" src="images/slider/6.jpg" alt="Second slide">
+              <div class="carousel-caption d-none d-md-block">
+                  <h3 class="sld-title">
+                    QUATER GUARD NIGERIAN ARMED FORCES RESETTLEMENT CENTER (NAFRC) 
+                  </h3>
+                <p></p>
+              </div>
+            </div>
+            
+            <div class="carousel-item">
+              <img class="d-block w-100" src="images/slider/2.jpg" alt="Second slide">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 class="sld-title">
+                  THE REPRESENTATIVE OF THE HONORABLE MINISTER OF DEFENCE
+                  </h3>
+                <p class="sld-title">The Guest of Honour Inspecting The Quater Guard</p>
+              </div>
+            </div>
+            
+            <div class="carousel-item">
+              <img class="d-block w-100" src="images/slider/3.jpg" alt="Third slide">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 class="sld-title">COMMISSIONING <br> OF <br> <span style="color:#b30000;">MAIN GATE NAFRCK</span></h3>
+                <br><br>
+                <p > </p>
+              </div>
+            </div>
+            
+            <div class="carousel-item">
+              <img class="d-block w-100" src="images/slider/4.jpg" alt="Third slide">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 class="sld-title" >TRAINEES</h3>
+                <br>
+                <p ></p>
+              </div>
+            </div>
+            
+            <div class="carousel-item">
+              <img class="d-block w-100" src="images/slider/5.jpg" alt="Third slide">
+              <div class="carousel-caption d-none d-md-block">
+                <h3 class="sld-title">C, COMPANY<br> The Newly Constructed AWO,NWO Air Warrant Officers Trainees Hostel</h3>
+                
+                <p ></p>
+                <br><br>
+              </div>
+            </div>
+            
+            
+            </div>
+          </div>  
+        <!--END OF SLIDER-->
+      </div>
+    </div>     
+    
+    <!-- Information Button -->
+    <div class="container-fluid">
+      <div class="row justify-content-center">  
+         <div class="col-md-3">
+           <a style="color:#ffffff" href="#/list" >
+           <button class="info-bt form-control">
+           Batch A 2018 Training Course List
+         </button>
+         </a>
+         </div>
+      </div>
+    </div> 
+    <!-- END OF BUTTON -->
+    <!--FACE ONE STARR-->
+    <div   class="container-fluid faceone" id="faceone">
+        <div ng-view>
+          
+        </div>
+    </div> 
+    <!--END OF FACE TWO-->
+    <!--FACE ONE STARR-->
+    <div class="container-fluid facetwo" ng-controller="Nafrc">
+      <div class="row"> 
+          <div class="col-md-3 wasa">
+            <div class="cmd-box">
+              <div class="card">
+                <img class="card-img-top" src="images/{{nafrcjsondata.commandant.picture}}" alt="Card image cap">
+               
+              </div>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="cmd-msg-box">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="cmd-msg-head text-center font-weight-bold">
+                    COMMANDANT MESSAGE
+                  </div>
+                </div>
+              </div>
+              
+              <div class="row">
+                <div class="col-md-8">
+                  <div class="msg text-justify">
+                        {{nafrcjsondata.commandant.message}}
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="ach-head text-center">
+                    Achievements
+                  </div>
+                  
+                  <div  ng-repeat="achieve in nafrcjsondata.commandant.achievements">
+                     <div ng-bind-html="achieve"></div>
+                  </div>
+                  
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-10">
+                  <a href="#/cmdachievement">
+                  <button class="form-control cmd-bt">
+                  View Pictures Of Achievements
+                  </button>
+                </a>
+                </div>
+              </div>
+            </div>  
+          </div>
+      </div>
+    </div> 
+    <!--END OF FACE TWO-->
+  <footer class="container-fluid nafrc-footer">
+    <div class="col-md-12">
+     Design by Abubakar Bakari (NYSC) Powered By NAFRC Info Tech Center 
+     :Commissioned By AVM AA JEKENNU &copy 2017 
+    </div>
+  </footer>
+    <script type="text/javascript" src="/javascripts/jquery.js"></script>
+    <script type="text/javascript" src="/javascripts/popper.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.js"></script>
+    <script type="text/javascript" src="/javascripts/angular.js"></script>
+    <script type="text/javascript" src="/javascripts/angularroute.js"></script>
+    <script type="text/javascript" src="/javascripts/angularanimate.js"></script>
+    <script type="text/javascript" src="/javascripts/jQueryCycle.js"></script>
+    <script type="text/javascript" src="/javascripts/angular-sanitize.js"></script>
+    <script type="text/javascript" src="/javascripts/nafrc.js"></script>
+  </body>
+</html>

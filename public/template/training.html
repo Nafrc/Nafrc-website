@@ -1,0 +1,85 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="faceone-tilte text-center ">
+              Brief On NAFRC Training
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-9">
+            <p class="text-justify">
+                <h4 class="font-weight-bold">Introduction</h4>
+            {{nafrcjsondata.training.intro}}  
+            </p> 
+        <div class="row">
+            <div class="col">
+                <div class="facetwo-head">Duration Of Courses</div>
+                    <P class="wasa text-box text-justify">
+                      {{nafrcjsondata.training.duration}}
+                    </P>
+            </div>
+            
+            <div class="col">
+                <div class="facetwo-head">Entry Requirment</div>
+                    <P class="wasa text-box text-justify">
+                      {{nafrcjsondata.training.entryreq}}
+                    </P>
+            </div>
+            <div class="col ">
+                <div class="facetwo-head">Assembly Dates</div>
+                    <P class="wasa text-box text-justify">
+                      {{nafrcjsondata.training.assemblydates}}
+                    </P>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col">
+                <div class="facetwo-head">Method Of Training</div>
+                    <P class="wasa text-box text-justify">
+                      {{nafrcjsondata.training.methodofit}}
+                    </P>
+            </div>
+            <div class="col">
+                <div class="facetwo-head">Reception</div>
+                    <P class="wasa text-box text-justify">
+                      {{nafrcjsondata.training.reception}}
+                    </P>
+            </div>
+            <div class="col">
+                <div class="facetwo-head">Documentation</div>
+                    <P class="wasa text-box text-justify">
+                      {{nafrcjsondata.training.screening}}
+                    </P>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12 text-justify">
+                {{nafrcjsondata.training.wingsinto}}
+            </div>    
+        </div>
+        
+        </div>
+        <div class="col-md-3">
+            <div class="facetwo-head">WING / DEPARTMENTS</div>
+               <div ng-repeat="wing in nafrcjsondata.wings">
+                 <div ng-bind-html="wing"></div>
+               </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-12 animated slideInLeft">
+            <img src="images/logo/5.jpg" class="img-thumbnail img-fluid wasa" style="cursor: pointer">
+            <img src="images/logo/6.jpg" class="img-thumbnail img-fluid wasa" style="cursor: pointer">
+            <img src="images/logo/2.png" class="img-thumbnail img-fluid wasa" style="cursor: pointer">
+            <img src="images/logo/3.png" class="img-thumbnail img-fluid wasa" style="cursor: pointer">
+            <img src="images/logo/4.png" class="img-thumbnail img-fluid wasa" style="cursor: pointer">
+            <img src="images/logo/1.png" class="img-thumbnail img-fluid wasa" style="cursor: pointer">
+            
+        </div>
+    </div>
+</div>
+<br>

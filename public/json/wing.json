@@ -1,0 +1,1678 @@
+[{
+		"wingname": "Agriculture Wing",
+		"wingbana": "agr.jpg",
+		"department": "Department In Agric Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Poultry</div>",
+			"<div class='wing-tab wasa'>Fishery</div>",
+			"<div class='wing-tab wasa'>Piggery</div>",
+			"<div class='wing-tab wasa'>Ruminants</div>",
+			"<div class='wing-tab wasa'>Snail Production</div>",
+			"<div class='wing-tab wasa'>Rabbitry</div>",
+			"<div class='wing-tab wasa'>Crop Production</div>",
+			"<div class='wing-tab wasa'>Animal Health Section</div>",
+			"<div class='wing-tab wasa'>Horticulture</div>"
+
+		],
+
+		"course": [{
+				"coursetitle": "Farm management And cooperative Training",
+				"banaimage": "agr_1.jpg",
+				"courseobjective": [
+					"knows sources of financing for their farm",
+					"keep proper farm records B",
+					"manage his farm effectively for profit"
+				],
+				"coursesoutline": [
+					"Introduction to Farm Management",
+					"Some useful Economic concepts in Farm Management",
+					"Sources of Farm Finance and Roles of Farm Credit",
+					"Budgeting in Farm Business",
+					"Depreciation and Rationale for Depreciation in Farm Management",
+					"Financial accounting in Farm Business",
+					"Labour Management on the Farm and how to improve Labour Efficiency.Principles of Farm Record keeping and types of Farm Record",
+					"Uses of Farm Record"
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Poultry",
+				"banaimage": "agr_2.jpg",
+				"courseobjective": [
+					"To know the definition of poultry",
+					"To identify different species of poultry",
+					"To know different aspects of feed and feeding in poultry",
+					"To identify and be able to use poultry equipment and appliances",
+					"To know management practices and housing type in poultry production",
+					"To know some common poultry diseases,prevention and their control"
+				],
+				"coursesoutline": [
+					"Introduction to poultry",
+					"Poultry Management Systems",
+					"Some Basic Equipment and appliances in poultry house",
+					"Planning for Poultry Production",
+					"Feeds and Feeding",
+					"Hatchery Techniques",
+					"Brooding",
+					"Broiler production",
+					"Pullets/layers production",
+					"Cockerel production",
+					"Turkey production",
+					"Health programme for poultry",
+					"Poultry records keeping"
+
+				],
+				"duration": "1 Month"
+
+			},
+			{
+				"coursetitle": "Fish Production",
+				"banaimage": "agr_3.jpg",
+				"courseobjective": [
+					"To know fish culture, types of water bodies, types of fish and fish farming",
+					"To know how to construct and manage fish ponds",
+					"To know the common materials and methods used for fish breeding",
+					"To know aspects of reproduction and breeding of fish",
+					"To know some common diseases of fish, their symptoms and control"
+				],
+				"coursesoutline": [
+					"Introduction, principle and practices of fish production",
+					"Terminologies and economic importance of fish",
+					"Common culture, fresh water brackish water, fish species, their scientific and local names",
+					"Fish pond construction management",
+					"Fish breeding and hatching management",
+					"Fish nutrition",
+					"Fish diseases and management{Symptoms, diagnosis and treatment}",
+					"Enemies of fish",
+					"Fishing gears and Tools Management",
+					"Fishing Harvesting"
+
+				],
+				"duration": "1 Months"
+			},
+			{
+				"coursetitle": "Piggery",
+				"banaimage": "agr_4.jpg",
+				"courseobjective": [
+					"To know what pig production is all about",
+					"To identify factors and amenities essential for pig production",
+					"To know the different types of breeds of pigs and their characteristics",
+					"To know the management practice and housing type in pig farms",
+					"To understand the mating methods and heat detection in pigs",
+					"To understand the feeding habits and feeds for various classes of pigs",
+					"To know the routine care of sows, piglets and other classes of pigs",
+					"To know the health management of sow, piglets and other classes of pigs"
+				],
+				"coursesoutline": [
+					"Introduction to pig production",
+					"Terminologies and definitions",
+					"Breeds of pigs",
+					"Systems of pig management and housing",
+					"Pig feeds and feeding",
+					"Routine care/management of pigs",
+					"Cares for the sow and litter",
+					"Common disease of pigs",
+					"Introduction to breeding and selection"
+
+				],
+				"duration": "1 Month"
+			},
+			{
+				"coursetitle": "Ruminants",
+				"banaimage": "agr_5.jpg",
+				"courseobjective": [
+					"Enable participants to know the importance of ruminants over than animals",
+					"Acquire skills in the management and breeding of ruminants",
+					"Know the breeds of ruminants and their features",
+					"Know some common diseases of ruminants, their prevention and control"
+				],
+				"coursesoutline": [
+					"Introduction to Ruminants Production",
+					"Comnion Terminologies in Ruminants Production",
+					"Breeds of Cattle, Sheep & Goats in Nigeria",
+					"Importance and Advantages of Ruminants over other Monogastric Animals",
+					"Digestion and Digestive Systems in Ruminants",
+					"Feed Resources Available for Cattle, Sheep & Goat in Nigeria",
+					"Use of Crop Residue and Agro Industrial by",
+					"Products in Ruminants Feeding",
+					"Pasture Establishment and Management",
+					"Breeding in Ruminants",
+					"Care for Pregnant Animals",
+					"Animal Nutrition",
+					"Classification of Livestock Feeds",
+					"Types of Ration/Diet & their Uses",
+					"Ration Formulation",
+					"Malnutrition of Farm Animal",
+					"Routine Management Practices of Farm Animal",
+					"Selection,Culling Ear Tagging,Tattooing etc",
+					"Classification of Drugs & their Uses",
+					"Some Common Diseases, Sign Symptoms treatment & control in Large & Small ruminants"
+
+				],
+				"duration": "1 Month"
+			},
+			{
+				"coursetitle": "Snail Production",
+				"banaimage": "agr_6.jpg",
+				"courseobjective": [
+					"Know the principles of snail culture and identify types of snails",
+					"Know how to construct and manage snailery. know how to manage snails of all ages",
+					"Know the various feeds of snails and how to formulate and compound concentrate for snails",
+					"Know about incubation and hatching of snail eggs",
+					"Know different diseases of snails their symptoms,prevention and control"
+				],
+				"coursesoutline": [
+					"Introduction",
+					"Importance and Use of Snails",
+					"Common Breeds of Snails",
+					"System of Production",
+					"Housing & Stocking",
+					"Feeds and Feeding",
+					"Reproduction and Management of Practices",
+					"Pest, Predators, Prevention and Control",
+					"Processing and Marketing",
+					"Preservation"
+
+				],
+				"duration": "1 Month"
+			},
+			{
+				"coursetitle": "Rabbits and Grass Cutter",
+				"banaimage": "agr_7.jpg",
+				"courseobjective": [
+					"Get acquainted with grass cutters, rabbits and their peculiar characteristics",
+					"Know the breed of rabbits and grass cutters as well as their features",
+					"Know the management system of rabbits and grass cutters and their breeding",
+					"Understand the feeding techniques in rabbits",
+					"and grass cutters production and be able to identify feeding ingredients and supplement that are used in feeding rabbits and grass cutters",
+					"To know some common diseases of grass . cutter and rabbit, their prevention and control"
+				],
+				"coursesoutline": [
+					"Introduction to Grass-Cutters and Rabbits production and management",
+					"Breeds of Grass-Cutters/Rabbits",
+					"Housing and Equipment Grass Cutters/ Rabbits Production",
+					"Management of Grass-Cutters/Rabbits",
+					"Reproduction and Breeding in Grass Cutters / Rabbit",
+					"Feeds/ Feeding of Grass-Cutters/Rabbit"
+				],
+				"duration": "N/A"
+
+			},
+			{
+				"coursetitle": "Crop Production",
+				"banaimage": "agr_8.jpg",
+				"courseobjective": [
+					"Know General Crop Production Practice",
+					"Highlight the Peculiarities of each Production Practice",
+					"Know the Different types of Field Crops",
+					"Know Different Tillage Systems and Necessary Implements",
+					"Know Different Method of Diseases and Pest Control in Field Crops",
+					"Encourage individual Participating in Field Crop Production"
+				],
+				"coursesoutline": [
+					"Field crop production practices",
+					"Introduction to field crop production",
+					"General production practices",
+					"Crop system",
+					"Weeds"
+				],
+				"duration": "2 Weeks"
+			},
+			{
+				"coursetitle": "Animal Health",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know what disease is, the signs and mechanisms of spread",
+					"Know the causes of diseases",
+					"Know the general ways of preventing and controlling diseases",
+					"Be acquainted with management procedures and equipment used during animal health management",
+					"Be acquainted with very important diseases of livestock their causative agents, diagnosis symptoms preventing and control"
+				],
+				"coursesoutline": [
+					"Introduction (Definition of Terms)",
+					"Signs of Disease in Animals",
+					"Mechanism of Disease Spread",
+					"Prevention & Control of Disease in Livestock",
+					"Some Important Disease of Livestock"
+
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Horticultural Practices",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Acquainted with horticulture practices",
+					"Know highlight the different fields in horticulture",
+					"Know the different types of horticulture crops to help trainees identify viable and sustainable enterprises in horticulture"
+				],
+				"coursesoutline": [
+					"Introduction to Horticulture",
+					"Factors Influencing Site Selection for Vegetable Production",
+					"Farm tools for Horticultural Operation and Farm Layout and Structures: Cutlass, Hoe, Hand Trowel etc",
+					"Basic Routine Horticultural Management Practice",
+					"Types of Nurseries, Establishment procedure and Management Practices",
+					"Seedling Production Methods and Timing of Transportation Activities: Transplant on clean land, depth of plating, time of transplanting etc",
+					"Fruit Tree Production Practices",
+					"Lawns Establishment, Maintenance and Land Scapping Techniques",
+					"Floriculture its Practices and Economic Prospects in Nigeria",
+					"Factors Affecting Site Selection",
+					"Equipment Required",
+					"Marketing Strategies"
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Agric Finance",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know the Various Sources of Agric Finance Available to them",
+					"Know how to Manage Capital",
+					"Realize the importance of Finance in Management of Agriculture"
+				],
+				"coursesoutline": [
+					"Introduction and Importance of Agric Finance",
+					"Problems of Agricultural Credits",
+					"Some Common Terminologies of Agric finance",
+					"Financial Intermediation",
+					"Factors and Investors in Agriculture",
+					"Roles and Contribution of Financial Institutions in Agriculture",
+					"Agricultural Development in West Africa",
+					"Prospect and Problems of Agriculture",
+					"Money: Definition of Money",
+					"Historical Development of Money",
+					"Characteristics of Money, Functions of Money & Types of Money",
+					"Value of Money",
+					"Concept of Money Demand",
+					"Reason or Motive for Money Demand",
+					"Sources of Agriculture Credit",
+					"Types of Farm/Agric Credit",
+					"Risk Management in Agriculture",
+					"Types/Classification of Risk in Agriculture",
+					"Production: Definition, Types & importance of production",
+					"Factors Influencing the Value of production",
+					"Factors of production: Land",
+					"Definition of Land",
+					"Classification of Land in Agriculture",
+					"Importance of Land in Agriculture",
+					"Capital: Definition, Types & Impotence of capital in Agriculture",
+					"Labour: Meaning, Types ,& Importance of Labour",
+					"Management/Entrepreneur,Meaning of Management:Administration,Organization, Marketing & Evaluation"
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Agric Marketing",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know the Importance of Marketing in Agriculture",
+					"Know the Various Marketing Channels",
+					"Be familiar with Common Concepts of Agricultural Marketing"
+				],
+				"coursesoutline": [
+					"Introduction to Agricultural Marketing",
+					"Importance of Agricultural Marketing",
+					"Problems of Agricultural in Nigeria",
+					"Common Terminologies in Marketing",
+					"Types of Market: Perfect market & imperfect Market",
+					"Channels of Marketing Farm Produce",
+					"Functions of Marketing or Stages of Agricultural Marketing",
+					"How agricultural Marketing can be encourage",
+					"Agents of Agricultural Marketing",
+					"Environmental Factors Affecting Agricultural Marketing",
+					"Production: Definition, Types & Importance of Production",
+					"Factors influencing the Volume of production",
+					"Law of Diminishing Returns",
+					"Demand & Supply",
+					"Implication of Demand & Supply of Agric Production",
+					"Determination of Price by Demand 86 Supply",
+					"Management of Risk and Uncertainty in Marketing",
+					"Types of Risk & Uncertainty",
+					"Inflation: Meaning, Types, Causes 86 Control of Inflation",
+					"Deflation: Causes of Deflation in Nigeria; Effects & Control of Deflation",
+					"Writing Feasibility Report on Farm Business",
+					"Marketing Management",
+					"Meaning of Farm Account; The need for Farm Account 86 Types of Farm Account",
+					"Definition of some account terms",
+					"Calculation of Depreciation & Salvage Value",
+					"Division of Labour & Specialization",
+					"Basic Economic Problems of Society"
+
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Food Processing",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Process Farm Produce into Marketable Products with Greater Value",
+					"Know how to store and market the products"
+				],
+				"coursesoutline": [
+					"Introduction to Food Processing",
+					"Review of Local Food Processing",
+					"Importance Food Processing",
+					"Food Processing Appliances or Machine",
+					"Preparation and end Productions of some Processed Food e.g. Beans, Cassava, Maize and Yam",
+					"Preparation of Food Drinks e.g. Soya Beans, Kunu Production",
+					"Production of Fruit Juice",
+					"Processing Yam",
+					"Processing of Tomato Paste",
+					"Processing of Marketing of Poultry Product",
+					"Storage of Processed Food",
+					"Problems and Solution of Food Storage"
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Post Harvest Food Losses",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know the different causes of post harvest losses",
+					"How to reduce or eliminate post harvest losses",
+					"Know how to maximize yields"
+				],
+				"coursesoutline": [
+					"Definition & Causes post Harvest Food Loses",
+					"Estimate of Post Harvest Losses in Agricultural Practice",
+					"Losses in Grain Crop Yields and Loss Reduction Method",
+					"Losses in Root and Tubers:Loss Reduction Methods",
+					"Loss in Fruit and Vegetable(Succulent produce)."
+				],
+				"duration": "2 weeks"
+			},
+			{
+				"coursetitle": "Post Harvest Grain Managemen (Principle And Practice)",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Store Grains Efficiently",
+					"Preserve Grains for a Long Time",
+					"Engage in Profitable Grain Business"
+				],
+				"coursesoutline": [
+					"Grain Harvesting Techniqu Degree of Effective Storage",
+					"Grain Threshing and Cleaning Techniques and Effect on Storage",
+					"Methods of Grain drying and their effects on efficient storage",
+					"Local grain storage methods and their efficiency",
+					"Types of storage facilities",
+					"Pre-Storage Equipment",
+					"Appropriate Technology for storage of Grain, Fruits, Root and Tuber"
+				],
+				"duration": "2 weeks"
+			}
+
+		]
+	},
+
+
+
+	{
+		"wingname": "Auto Mechanics Wing",
+		"wingbana": "aut.jpg",
+		"department": "Departments In Auto Mechanics Wings",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Auto Mechanics</div>",
+			"<div class='wing-tab wasa'>Battery Charging</div>",
+			"<div class='wing-tab wasa'>Vulcanizing</div>",
+			"<div class='wing-tab wasa'>Car-Wash Workshop</div>"
+		],
+		"course": [{
+				"coursetitle": "Auto Mechanic",
+				"banaimage": "auto_df.jpg",
+				"courseobjective": [
+					"Understand Safety, the rules as well as to be able to identify tools needed in Auto Mechanic",
+					"Identify different stroke cycle and its working system",
+					"Understand the component that make up fuel systems",
+					"Understand the operation of clutch and brake system",
+					"Master how those components are fixed and their importance",
+					"Understand water and air cooling in a motor",
+					"Have gradual understanding of motor vehichle servicing",
+					"Detect causes of the battery and brake failure in vehicles"
+				],
+				"coursesoutline": [
+					"Basic knowledge of machine",
+					"Four stroke cycle practical",
+					"Fuel system sketch",
+					"Diagram of fuel system",
+					"Brake system and clutch system",
+					"Rear axle revision and general service",
+					"Cooling System",
+					"Carburetor",
+					"General Servicing",
+					"Practical, Ignition system",
+					"Revision & Test",
+					"General Discussion",
+					"Practical Aspect & Test",
+					"Causes of Overheating",
+					"Tyre wear, causes of Battery failure",
+					"Causes of Break Failure",
+					"Revision, Test and Examination"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Battery Charging",
+				"banaimage": "auto_df.jpg",
+				"courseobjective": [
+					"At the end of the course, participants should be able to have basic knowledge of battery charging"
+				],
+				"coursesoutline": [
+					"Basic knowledge of Battery Charging and Principle of Electricity",
+					"Electricity Sign and Symbol",
+					"Electricity Introduction of Battery. Practical and revision",
+					"Mixing fo Sulphuric Acid Distill Water Reading fo Hydrometers and Hydrometer Gauge",
+					"Practical Soldering of Internal Lead Practical"
+				],
+				"duration": "4 Months"
+			},
+			{
+				"coursetitle": "Vulcanizing",
+				"banaimage": "auto_df.jpg",
+				"courseobjective": [
+					"Know the Manual and Mechanical Methods of Removing tyres from Rims",
+					"Remove and Change Wheel",
+					"Know Fault Detecting Techniques",
+					"Patch Punchured Tubes and Tubeless Tyres",
+					"Pump and Manage compressed Air"
+				],
+				"coursesoutline": [
+					"General Safety Precaution and Tools",
+					"Introduction to tyres",
+					"Tyre Maintenance",
+					"Removing and Changing Wheel",
+					"Removing Tyres from Rim and Fault Detecting",
+					"Tubeless Tyres Valves",
+					"Fixing Tubeless Tyre and Repairing Tubeless Tyre",
+					"Tyre and Tubes Removing and Fixing",
+					"Patching of Puncture Tubes",
+					"How to get Compressed Air",
+					"General Revision, Assessment and Examination"
+
+
+				],
+				"duration": "3 Months"
+			},
+			{
+				"coursetitle": "Car-Washing Workshop",
+				"banaimage": "auto_df.jpg",
+				"courseobjective": [
+					"At the end of the course, participants should be able to hav e basic Knowledge of Car-Rug-Washing"
+				],
+				"coursesoutline": [
+					"General Introduction to Workshop Environment, Safety Precaution and Tools",
+					"Introduction to Tools",
+					"Tools Usage and Handling",
+					"Chemicals, Identification of Chemicals and Methods of Usage",
+					"Car-Wash Chemicals",
+					"Rug Washing",
+					"Rug Washing Chemicals"
+				],
+				"duration": "3 Months"
+			}
+		]
+	},
+
+
+	{
+		"wingname": "Building Construction Wing",
+		"wingbana": "buld.jpg",
+		"department": "Departments In Construction Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Block Laying and Concreting</div>",
+			"<div class='wing-tab wasa'>Plumbing and Pipe Fitting</div>",
+			"<div class='wing-tab wasa'>Painting and Spraying Workshop"
+		],
+		"course": [{
+				"coursetitle": "Block and Concreting",
+				"banaimage": "buld_df.jpg",
+				"courseobjective": [
+					"At the end of the course participants should be able to acquire basic knowledge and skill on the principles and general methods of Block/Bricklaying,Concreting and site activities in the classroom including practical works"
+				],
+				"coursesoutline": [
+					"Introduction to Tools",
+					"Measurement",
+					"Building Plan",
+					"Setting out of Building Plan",
+					"Foundations",
+					"Aggregates",
+					"Estimating",
+					"Concrete/Mortar",
+					"Plastering",
+					"Bonding and Bonds",
+					"Wall Opening Lintel",
+					"Laying of Tiles",
+					"Block Moulding"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Plumbing and Pipe Fitting",
+				"banaimage": "buld_df.jpg",
+				"courseobjective": [
+					"Identify underground water pipes",
+					"Understand pipe laying, cutting, threading and joining methods",
+					"Know safety precautions in plumbing",
+					"Reading and taking measurement of pipes",
+					"Pure water production and marketing",
+					"Water treatment plant and chemical application",
+					"Bore hole drilling",
+					"Repair and maintenance of household plumbing fittings",
+					"Dislodging of sewage",
+					"Sale of Plumbing tools and fittings"
+				],
+				"coursesoutline": [
+					"Introduction to Plumbing Work",
+					"Understanding safety protections",
+					"Introduction to pure water production",
+					"Scale reading and pipe fittings",
+					"Understanding plumbing works and management"
+
+
+				],
+				"duration": "4 Months"
+			},
+			{
+				"coursetitle": "Painting and Spraying Workshop",
+				"banaimage": "buld_df.jpg",
+				"courseobjective": [
+					"Paint Either by Brush or Spraying on any Surfaces like Iron, Wood or Wall",
+					"Know the different types of paints for different types of surfaces",
+					"Know how to prepare Surface for Painting and Spraying"
+				],
+				"coursesoutline": [
+					"General Safety Rules: State the General Hazards and Safety",
+					"Reading of Rules: To Read and Write Metric Roles",
+					"Types of Tools: Their uses and the purposes",
+					"Abrasive and Remover: Uses of Abrasive and Paint Remover",
+					"New and Old Surface: Treatment and Preparation",
+					"Reasons for Painting; Protection, Hygiene Decoration and Identification",
+					"Colour Mixing and Matching: How to mix and obtain each colour",
+					"Types of Paint: Materials used in Painting",
+					"Types of Brush; Draw and label the part",
+					"Types of Compressor: Draw and label teh part",
+					"Types of Spray Gun: Draw and label the parts",
+					"Principal Methods of Coat Application: Spraying & Roller Brush",
+					"Revision: Feed Back"
+				],
+				"duration": "4 Months"
+			}
+		]
+	},
+	{
+		"wingname": "Electrical & Electronics Wing",
+		"wingbana": "elt.jpg",
+		"department": "Departments In Electrical & Electronics Wings",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Refrigeration and Air-conditioning</div>",
+			"<div class='wing-tab wasa'>Electrical Installation and Maintenance</div>",
+			"<div class='wing-tab wasa'>Radio, Television and Electronic Servicing</div>"
+		],
+
+		"course": [{
+				"coursetitle": "Refigeration and Air-conditioning",
+				"banaimage": "elt_df.jpg",
+				"courseobjective": [
+					"At the end of the course, participants should be able to effectively install and maintain all refrigeration and air conditioning systems"
+				],
+				"coursesoutline": [
+					"Introduction to Refrigeration and Air Condition Work",
+					"Components of Refrigeration",
+					"Maintenance and Repair of Electric Motor, Stratus Used In Refrigeration and Air Conditioning Systems",
+					"Working Principle and Efficiency Test of Compressor",
+					"Changing the Refrigeration Systems",
+					"Air-Conditioning System of Refigeration",
+					"Types of Air Condition: Installation and Maintenance of Window Air-Condition",
+					"Installation of Split Air Condition",
+					"Package Unit Air-Condition",
+					"Central Unit Air-Condition Dusting System"
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Electrical Installation and Maintenance",
+				"banaimage": "elt_df.jpg",
+				"courseobjective": [
+					"Use Measuring Tools for Marking out a given Dimension and for Determining the Sizes of Materials",
+					"Use Files, Hacksaws, Taps and Dies in Filing, Cutting, Tapping of Metals and Non- Metals",
+					"Making Soldered Joints: Use of Sockets and Cable Plug, Use and Care of Blow Lamp",
+					"Make Simple Married Joint and Tee joints on 79 Strand Cables. Use of Suitable Flux for Electrical Purposes",
+					"carry out Wiring of Simple Circuits in PVC Cables: Preparation of Cables end for Connections, Methods of Terminating Cables at Accessories and Domestic Appliances",
+					"Exercise in Cable Installation and Fixing, Selection of Cable Runs",
+					"Practice in Bell Installation: Belly Circuits with Transformers and Simple Indicator Board",
+					"Perform Simple Testing with Part of Test Lamp and Megger for Continuity, Insulation and Polarity; Fault Diagnosis and Repairs of Simple Domestic Appliances",
+					"Practice in Circuit Wiring with intermediate Switching; Series Parallel, Switching and Master Control",
+					"Perform More Advance Wiring Practice on Surface Including Steel Conduit, Mineral isulated Copper Sheathed, Earth Concentric and Catenary System",
+					"Exercise in Methods of Protecting Against Fire Excess Current and Mechanical Damage. Methods of installing Earth Electrode and Earth Continuity Conductor",
+					"Practice in Simple Installation Planning and Applying Diversity Factor. Development of Main Cables.Selecting of Suitable Central Gear Switch. Estimation of Materials for such Installation i.e Cost Implication of Such Project"
+
+				],
+				"coursesoutline": [
+					"Safety Regulation: Clothing and Moving Around the Workshop Sources of Hazards and First Aid application",
+					"Fitting: Use of Common Bench Tools such as Files, Hacksaw, Stocks And Dies etc. General Description by Types and Size, Correct",
+					"Selection, Maintenance Care and Storage",
+					"Measurement and Gauging: Care and Use of Caliper, Rule Square etc.The External Hand Micrometer Principle, Construction, Care and Use",
+					"The range, and Electrical and Mechanical Properties of Materials used as Conductors and Insulators. Difference between Conductor and Insulator",
+					"Introduction to Solder: Fluxes and their Uses, CompositionofCommon Solders. Methods of Performing Soldered Joints for Electrical and Mechanical Purpose Including the Use of Blow Lamp and Metal Pot and Laddle",
+					"Introduction to Electrical Installation (Wiring): What it Entails, Types of Wiring e.g. Surface and Conduit, the Importance of IEE Regulations. Carry out Simple Surface Wiring of Building (Residential) Using Appropriate Tools",
+					"General Layout of an Electrical Supply System from Generation to Consumers Terminals, including all Generations, Transmission and Distribution Equivalent",
+					"Types of Circuit AC and DC Similarities and Differences between them. Types of Cables used in Installation Work. Their Sizes and Ratings including the use of Relevant tables and Regulations in the IEE Regulation",
+					"The need for Protection Against (a) Excess Current (b) Electric Shock (c) Fire (d) Corrosion (e) Mechanical Damage and (f) Leakage. Method of Protection against all above Mentioned including the Purpose and Method of Wiring the Earth Continuity Conductors",
+					"Types of Electric Bells, Method of Wiring Simple Bell and Bell Indicator Circuits together with relevant IEE Regulations, Simple methods of testing for Electrical Continuity and Insulation Resistance, Testing Simple Domestic Appliances for Faults and Repairs on such Items, Knowledge of Industrial Repairs on Apparatus e.g Electric Motor, Fan Extractor etc"
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Radio, Television and Electronic Servicing",
+				"banaimage": "elt_df.jpg",
+				"courseobjective": [
+					"Practice Safety Rules and Regulation in the Electronic Workshop",
+					"Identify Electronics Tools, Devices an d their Uses",
+					"Perform Measurement and Testing of Electronics Component using Digital/Analogue Meter",
+					"Draw the Block Diagram of a Radio Receiver and Explain the Function of Each Blocks",
+					"Identify Fault and Provide Solution to Faulty Radio Receiver",
+					"Draw and Explain the Functions of each of the Block Stages of a Tv Receiver",
+					"Dismantle and Provide Solutions to a Faulty Tv",
+					"Dismantle and Provide Solutions to a faulty Video Cassette and Video Camera Machine and Re-assemble it back",
+					"Dismantle any Types of DVD/VCD and provide Solution to their Faults and Reassemble back",
+					"Be able to Answer any Electronic questions"
+
+				],
+				"coursesoutline": [
+					"Basic Electricity",
+					"Electronics Practical",
+					"Radio Receiver",
+					"Television Receivers",
+					"Video Cassette and Video Camera Machines",
+					"DVD and VCD Machine"
+
+				],
+				"duration": "6 Months"
+			}
+		]
+	},
+	{
+		"wingname": "Fabrication and Welding Wing",
+		"wingbana": "fd.jpg",
+		"department": "Departments In Fabrication and Welding",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Fabrication</div>",
+			"<div class='wing-tab wasa'>Welding(ARC and Gas Welding)</div>",
+			"<div class='wing-tab wasa'>Machining and Fitting</div>"
+		],
+		"course": [{
+				"coursetitle": "Fabrication",
+				"banaimage": "frd_df.jpg",
+				"courseobjective": [
+					"Use and Select Hand-Tools for Carrying out various Bench Fitting and Assembly tasks with Tools such as: Hacksaws, Taps, Reamers, Drills, Dividers, Surface Gauge etc",
+					"Know the Physical Properties, Manufacturing Process and Application of Ferrous and Non-Ferrous Metals in Common Use",
+					"Understanding the Basic Working Principles of Drilling Machines and be able to Rivet and cut Types of Screw Treads, Rivets and be able to Rivet and Cut Screw By Hand",
+					"Understanding the ISO System of Tolerances and find their Application in engineering production",
+					"Understanding teh Essential Features and working Principles of the Centre Lathe and Carry out Basic Operation such as Turning, Stepped Turning, Facing Tapper Turning, Knurling, Chamfering and Undercutting",
+					"Select and Set Drilling Machine Speeds to carry out a Range of Operations using Appropriate Coolants during Drilling, Remaining, Counter Sinking and Boring",
+					"Perform Metal Joining by a Range of Processes by Cutting and Investigating through the Joints and Investigate the Depth of Penetration of the metals at the Interface through Processes such as Soldering, Brazing and Fusing Welding",
+					"Perform Marking out on Metals and other Material when Drawing Datum Lines, Angles, Radii/Circles and Hole Position Using Range of Tools",
+					"Produce Household and Industrial Items for their Homes and Public Use",
+					"Be self-employed and also be an employers of Labour"
+
+				],
+				"coursesoutline": [
+					"Safety Rules and their Applications",
+					"Physical Principles: Manufacturing Process and Applications of Ferous and Non-Ferrous Metals in Common use",
+					"Selection and use of Measuring, Marking Out, Cutting and Striking Tools",
+					"Working Principles of Drilling Machines",
+					"Riveting and Screw Cutting",
+					"Applications of Various types of Screws and Rivets",
+					"Applications of Tolerance and Fits Engineering Production",
+					"Essential Feature and Working Principles of a centre Lathe",
+					"Use of Lathe for Step-Tunning, Taper Turning, Chamfering, Facing, Undercutting etc",
+					"Heat Treatment of Metals",
+					"Production of Simple Engineering Components by Forging",
+					"Basic Proceedure for Assembling Simple Mechanical Devices",
+					"Use of Bending Machine",
+					"Project"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Welding {ARC and Gas Welding}",
+				"banaimage": "frd_df.jpg",
+				"courseobjective": [
+					"Have a Knowledge of Safety Precautions Appropriate to the Trade including those Related to Welding, Plant, or Set and the need for Hood or Shield, Goggles, Respirators, Gauntlets, Dark Screens, Repairs of Vessels with Combustibles and the Proper Care of Coated Electrodes",
+					"Have a knowledge of AC and DC, Electric Welding Technique Equipment, when and where to use them",
+					"Have a Knowledge of Positive and Negative and when to Reverse the Earth Connection and Electrodes",
+					"Have a Knowledge of the Layout of Gas Welding Shop, the Sequence of Operations, the Plant, all Precaution Necessary with Compressed Gas Cylinders, and Generators, Cutting and Equipment Used",
+					"Used to High and Low Pressures of Welding Equipment",
+					"Have a Knowledge of Oxy-Acetylene Welding Technique and Equipment"
+
+				],
+				"coursesoutline": [
+					"Safety Precautions",
+					"Mensuration Formular",
+					"Arc Welding Machines",
+					"Oxy-Acetylene Gas Welding System",
+					"Deposition of Fusion",
+					"Welding Methods",
+					"Primary and Basic Welding Joints, and Trade Talk",
+					"Primary and Basic Welding Materials",
+					"Making of Joints",
+					"Workshop Hand Tools",
+					"Metal Filling",
+					"Distortion and Welding Defects",
+					"Introduction to Non Ferrous and Dissimilar Metal",
+					"Classification of Metals",
+					"Brazing and Soldering",
+					"Single Vee Butt Joint in Cast Iron",
+					"Plates",
+					"Manufacture of Steel",
+					"Butt Welded Joints Techniques",
+					"Close and Open Weld Techniques",
+					"Pipe Welding",
+					"Build Up Worn Metallic Shaft, -+s; Air Surface Using Metal Arc Welding",
+					"The Principle and Application of Arc Cutting Methods",
+					"Defects in Arc Welding Joints",
+					"Repair Works",
+					"Metal Construction and Steel Works",
+					"Individual Project"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Machining and Fitting",
+				"banaimage": "frd_df.jpg",
+				"courseobjective": [
+					"Understand Workshop Safety Rules and their Application in Machine Shop",
+					"Know the Physical properties, Manufacturing Process and Application of Ferrous Metal in Common Use",
+					"Select and Use Common Measuring, Marking Out, Cutting and Striking Tools",
+					"Understand the Basic Working Principle of Drilling Machine and be able to use it for Various types of Screw Treads Rivets, and be able to Rivet and Cut Screw by Hand",
+					"Understand the Application of Various Types of Screw Threads and Rivets, and able to Rivet and cut Screw by hand",
+					"Understand the ISO System of Tolerances and Fits their Application in Engineering Production",
+					"Produce Simple Engineering Components on the Bench",
+					"Understand the Essential Features and Working Principles of the Center, Lathe and Carry out Basic Operation such as Tuning, Step Turning, Facing, Taper Tuning, Knurling, Chamfering and Undercutting",
+					"Use all Tools Correctly ensuring the Machinery Guard's and Protective Eye Shields are used at all times",
+					"Comply with the General Rules for Safe Practice in the Work Environment at all times",
+					"Use and Select Hand Tools for Carrying out Various Bench Fitting and Assembly Tasks",
+					"Tools: Hacksaw, Taps, Reamers, Drills, Divider, Surface Gauge",
+					"Produce Threads Using Tap and Dies",
+					"Correctly Grind Drill Point Angles",
+					"Drill: Twist and Flat Drills",
+					"Select and Set Drilling Machine Speed to Carry-out a Range of Operation using the Appropriate Coolants",
+					"Drilling, Reaming, Counter Sinking, Counter-Boring",
+					"Perform Metal joining by a range of Processes. Cut through the joint and investigate the depth of penetration of the metals at the interface. Processes: Soldering, Brazing, and Fusion Welding",
+					"Mark out on Metals and other Material, Datum Lines, Angle, Radii/ Circles and Hole Positions Using a Range of Tools"
+
+
+
+				],
+				"coursesoutline": [
+					"Use of Common Measuring Tools such as Steel Rule, Vernier Calipers, Micro-Meter and Screw Gauge",
+					"Use of Common Making out, Cutting and Striking Tools etc and Maintenance. Physical properties, Manufacturing Process and Application of Ferrous and Non-Ferrous Metals in Common Use",
+					"General Working Principles of a Drilling Machine",
+					"Use of Drilling Machines to Drill and Ream Holes on Metals and other Engineering Materials",
+					"Applications of Various Types of Threads and Rivet, Groove",
+					"Understanding Cutting of Thread, Riveting and Grooving of Engineering Materials",
+					"Understanding the ISO Tolerance and Fits and its Application in Engineering Production",
+					"Production of Simple Engineering Components on the Bench",
+					"Essential Features and Working Principle of the Centre Lathe",
+					"Use of Lathe for Operations such as Plain Turning, Stepped Turning, Facing, Taper Turning, Chamfering and Undo-Cutting",
+					"Understandipg the Basic Principles and Process of her Treatment of Metals in the Workshop",
+					"Production of Simple Engineering Components by Forging",
+					"Basic Principles of Gas and Arch welding",
+					"Application of Welding in Fabricating Simple Metals Components",
+					"Essential Features and Working Principles of Milling Machines",
+					"Basic Procedure of Assembling Simple Mechanical Devices",
+					"Project"
+
+
+				],
+				"duration": "6 Months"
+			}
+		]
+
+	},
+
+
+	{
+		"wingname": "Fashion Facilities Wing",
+		"wingbana": "fus.jpg",
+		"department": "Departments In Fashion Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Barbing Workshop</div>",
+			"<div class='wing-tab wasa'>Hair Dressing</div>",
+			"<div class='wing-tab wasa'>Tailoring</div>",
+			"<div class='wing-tab wasa'>Laundry</div>",
+			"<div class='wing-tab wasa'>Shoe Making</div>",
+			"<div class='wing-tab wasa'>Weaving</div>"
+		],
+		"course": [{
+
+				"coursetitle": "Barbing Workshop",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know all the Safety Precautions against Electric Shock Accidental Cuts on Flesh and Transfer of Diseases from one Client to another",
+					"Know Most of Modern Cutting Styles and be able to initiate New Ones",
+					"Know how to Manage Barbing Salon for Effective Competition and Profitability"
+
+				],
+				"coursesoutline": [
+					"Introduction to Barbing",
+					"Safety Precaution",
+					"Barbing: Barbing as a Science",
+					"Evolution of Barbing",
+					"Element of Barbing",
+					"Barbing Styles",
+					"Barbing Tools",
+					"Maintenance of Tools",
+					"Safeguard to Avoid Electric Shock",
+					"Feasibility of Studies"
+
+				],
+				"duration": "3 Months"
+			},
+
+			{
+				"coursetitle": "Hair Dressing",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know all the safety regulations",
+					"Know most of classic styles and acquire skill and ability to come-up with new ideals to meet both local and international standards",
+					"Know how to manage Hair Dressing Salon for excellence and profitability"
+
+
+				],
+				"coursesoutline": [
+					"Introduction to Hair Dressing Salon",
+					"Client preparation for styling and dressing hair",
+					"Expected service times for styling and dressing hair",
+					"Health & Safety at work",
+					"Electricity at work regulation",
+					"The salon image and expected standards of service",
+					"The range of protective clothing that should be available for clients",
+					"How to position the client and yourself",
+					"The 5 operational simple steps",
+					"Safety consideration on account of styling and dressing hair",
+					"Importance of using products economically"
+
+				],
+				"duration": "4 Months"
+			},
+			{
+				"coursetitle": "Tailoring",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Operate all Sewing Machine",
+					"Know techniques to existing patterns and be able to initiate New ones",
+					"Join, Fold and Iron materials",
+					"Manage a small scale sewing Institute"
+
+
+				],
+				"coursesoutline": [
+					"introduction to Workshop/Tailoring",
+					"Workshop guidelines and procedure Safety and precautionary measures against accident in the workshop",
+					"Introduction to sewing machines and equipment",
+					"Solving common machine problems",
+					"Taking of measurement",
+					"Materials Handling",
+					"introduction to Cutting",
+					"Introduction to Embroidery design",
+					"Sewing and Designing",
+					"Finishing e.g Fixing of button and ironing"
+
+
+				],
+				"duration": "5 Months"
+			},
+			{
+				"coursetitle": "Laundry",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"•Know all the Safety Rules",
+					"Know the Operation of all Washing and Drying Machines",
+					"Know the Use of Ironing Machine",
+					"Manage a Small Scale Business of Dry Cleaning"
+
+				],
+				"coursesoutline": [
+					"Safety Precaution",
+					"Tools & Machines",
+					"Operation and Handling",
+					"Proper Care and Maintenance of Machines",
+					"Types of Chemicals Used",
+					"The Washing Machine",
+					"The Boiler",
+					"The Spinning and Drying Machine",
+					"The Washing Machine",
+					"The ironing Machine"
+
+
+				],
+				"duration": "3 Months"
+			},
+			{
+				"coursetitle": "Shoe Making",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Participants should be able to source for quality leather, cut them into shapes, sew, glue and join them to ready-made bottom materials to produce shoes"
+
+				],
+				"coursesoutline": [
+					"Bottom and Upper Materials",
+					"Lasts",
+					"Cutting of Insoles",
+					"Uses of Hemp Sewing",
+					"Foot Draying",
+					"Upper Materials",
+					"Types of Knives Used in the Trade",
+					"Pattern Cutting",
+					"Skiving and Folding Upper Materials",
+					"Oxford Shoe Parts",
+					"Parts of Closing M/C",
+					"Upper Closing"
+
+				],
+				"duration": "4 Months"
+			},
+			{
+				"coursetitle": "Weaving",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Spin, Wrap, Draft",
+					"Form Patterns",
+					"Tie-up into Local fabrics"
+
+				],
+				"coursesoutline": [
+					"Introduction to Weaving",
+					"Introduction to Textile",
+					"Safety and precautionary measures",
+					"Spinning",
+					"Wrapping",
+					"Ends Counting",
+					"Glass fiber",
+					"Fold yarning",
+					"Pattern forming",
+					"Coreel and Bobbing Setting",
+					"Monting",
+					"Gating",
+					"Beaming",
+					"Drafting and Denting",
+					"Tie-up",
+					"Weaving",
+					"Colour Mixture",
+					"Knitting"
+
+				],
+				"duration": "4 Months"
+			}
+		]
+	},
+
+
+	{
+		"wingname": "Fine Arts and Printing Wing",
+		"wingbana": "fnd.jpg",
+		"department": "Departments In Fine Arts and Printing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Fine Art Ceramics</div>",
+			"<div class='wing-tab wasa'>Photography</div>",
+			"<div class='wing-tab wasa'>Printing</div>"
+		],
+		"course": [{
+				"coursetitle": "Fine Art Ceramics",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Have a knowledge of Art and areas of Specialization. Define Arts, Name the Branches and Areas of Specialization",
+					"To Identify Different Arts Materials",
+					"Preserve Tools and Take Care of them",
+					"Become Familiar with Lines Using and Element to Develop Love and Appreciation for the Beauty of Natural Form and Use of for Research in Development of Local Industries",
+					"Bringing Trainees Close to the Study of Nature Cultivate the Sense of Awareness and Judgment using Drawing as a Means of Expression Mood, Thoughts etc",
+					"Colour Identification in its Primary, Secondary and Tertiary Forms, Development of Skills in Colour Application and Harmony",
+					"To Create and Organize Lines, Shape and Forms be able to Balance Forms and Harmony",
+					"Get an Exposure to the Techniques of Local Craftsman and Practice the Crafts, Appreciate need for Crafts, Utilitarian Decorative and Economic",
+					"Expose them to Commercial Art",
+					"To Acquaint Trainee with simple printing techniques for commercial art{Graphics}",
+					"Machine thread or various colour bobby, needle, machine oil allen keys, diskette digitalization, Computer design"
+				],
+				"coursesoutline": [
+					"Introduction and meaning of Arts",
+					"Introduction of Art materials and usage",
+					"Preservation of materials and tools care/precaution",
+					"Drawing",
+					"Drawing, shading use of tonal value",
+					"Painting",
+					"Design 11 (Graphics)",
+					"Craft",
+					"Commercial Art (Graphics)",
+					"Skill printing or silk screen printing",
+					"Embroidery computerized embroidery machine"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Photography",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"By the end of the Course participants should able to handle all Cameras including Video cameras for Effective Photo and Film production, process Films and snap shots for both Private and Commercial Purposes"
+				],
+
+				"coursesoutline": [
+					"Introduction of Photography",
+					"Cameras",
+					"Lenses, Aperture and Shutter Speed",
+					"Films Sensitivity of Films",
+					"Operation of a Cameras",
+					"Photo Process Practical",
+					"Photo Process (Darkroom Techniques)",
+					"Basic Video Production",
+					"Video Production",
+					"Video Production Practical"
+
+				],
+				"duration": "3 Months"
+			},
+			{
+				"coursetitle": "Printing",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know Typefaces, Type Case, Compose types for Letter Press and Operate Letter Press Machines",
+					"Proficient in Computer Typesetting and Graphic Designs",
+					"Know all the method of Make-Ready",
+					"Operate offset Process Colour Jobs",
+					"cost, Estimate and know the Bacic Principles of Printing Management"
+				],
+				"coursesoutline": [
+					"Introduction to printing workshop and safety precaution",
+					"Letter Press Machine: Types and Handling",
+					"Computer Graphics and Accessories",
+					"Lithography, Plate Making and Chemicals Used t o Develop Plate",
+					"Dark room preparation and camera Processing",
+					"The Used of Light Table and Film Exposure",
+					"Ink and Colour Processing",
+					"Costing and Estimation Printing Management"
+
+
+				],
+				"duration": "9 Months"
+			}
+		]
+	},
+	{
+		"wingname": "Food and Beverages Wing",
+		"wingbana": "fd.jpg",
+		"department": "Department In Food and Beverages Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Baking</div>"
+		],
+		"course": [{
+			"coursetitle": "Baking",
+			"banaimage": "gen_df.jpg",
+			"courseobjective": [
+				"Know the Basic Process in Bread Baking",
+				"Know how to Prepare Confectionaries",
+				"Know the Process Cake Making",
+				"Know the basic of principles of Record Keeping, Costing, Marketing and Management of Commercial Bakery"
+
+			],
+			"coursesoutline": [
+				"Bread Baking Process and Terms",
+				"Documentation/ Recipe Formation",
+				"Cereal and Wheaten Flour Milling",
+				"Function of Water, Salt, Fat and other in Bread Production",
+				"Faults in Brad And Fermented Goods",
+				"Confectionaries",
+				"Tools/ Equipment Used in Cake Making",
+				"Cake Making Methods",
+				"Cake Faults"
+
+			],
+			"duration": "4 Months"
+		}]
+	},
+	{
+		"wingname": "Information Technology Wing",
+		"wingbana": "Info.jpg",
+		"department": "Departments In Information Technology Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Information Technology</div>",
+			"<div class='wing-tab wasa'>Computer Appreciation</div>"
+		],
+		"course": [{
+				"coursetitle": "Information Technology",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"The main objectives of Info-tech is to train and equip the trainees who intend to either take up another career or setup their own businesses in computer related fields with adequate knowledge and skills to make them suitable for gainful employment or enable them setup and manage their own businesses in any or all of the following",
+					"Business Centre",
+					"Cyber Cafe",
+					"Computer Trainig Institute",
+					"Computer Hardware and Software Maintenance"
+
+				],
+				"coursesoutline": [
+					"Introduction to Computer",
+					"Data Typing",
+					"Microsoft Word",
+					"Microsoft Excel",
+					"Power Point",
+					"Corel Draw",
+					"Page maker",
+					"Internet",
+					"Computer Maintenance",
+					"Networking Fundamentals",
+					"ICT Investment Opportunity e.g Cybercafe Business",
+					"Practical",
+					"Revision"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Computer Appreciation",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+
+				],
+				"coursesoutline": [
+					"Introduction to Computer",
+					"Basics of Typing Tutors",
+					"Microsoft Words",
+					"Microsoft Excel",
+					"Microsoft PowerPoint",
+					"Adobe PageMaker",
+					"Core Draw/ Graphic Design",
+					"Internet Application/Networking Essentials",
+					"Introduction to computer Engineering/ Repairs",
+					"Business Centre Organization and Control",
+					"Online Trading",
+					"Recharge Card /GSM Technology",
+					"Forex Trading",
+					"Computer Sales and Repairs"
+
+				],
+				"duration": "4 Months"
+			}
+		]
+	},
+	{
+		"wingname": "Management Courses Wing",
+		"wingbana": "main.jpg",
+		"department": "Department In Management Courses Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>General Management</div>",
+			"<div class='wing-tab wasa'>Entrepreneurship and General Studies</div>",
+			"<div class='wing-tab wasa'>Security And Safety Management</div>"
+		],
+
+		"course": [{
+				"coursetitle": "General Management",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Principles of Management",
+					"Marketing",
+					"Management Accounting",
+					"Principles of Economics",
+					"Personnel/ Human Resources",
+					"Management",
+					"Trainees should have been equipped with the Process of Formation, Growth and Management of Small Scale Business"
+
+				],
+				"coursesoutline": [
+					"Basic concept of Management",
+					"Principles of Management",
+					"Functions of Manager",
+					"Planning, Leadership, Motivation",
+					"Control Techniques",
+					"Management Problems in Nigeria",
+					"Risk Management in Small Business",
+					"Nature and Purposes of Accounting",
+					"Users of Accounting Information",
+					"Source Documents & Subsidiary Books i.e. Cash Book and Journals",
+					"Double Entry Book Keeping Principles and Ledgers",
+					"Trial Balance",
+					"Correction of Errors",
+					"Income and Expenditure Accounts",
+					"Accounting Concepts",
+					"Partnership",
+					"Trading, Profit & Loss Account and Balance Sheet of a Sole Proprietor",
+					"Meaning of Market and Marketing",
+					"Concept of Marketing",
+					"Consumer Behavior",
+					"Marketing Mix",
+					"Consumer/Industrial Market",
+					"Life Circle of a Product",
+					"Branding & Packaging",
+					"Process of Segmenting Markets",
+					"Appreciate the Meaning of Process Costing",
+					"Understand the Characteristics of Process Costing",
+					"To know the Meaning and the Different between Variable Cost and Fixed Cost of Production",
+					"To know the Meaning and the Role of Break Even Point in Production and Sales",
+					"To Ascertain How Cost Production Report is Prepared",
+					"Appreciate the Meaning of Management Accounting",
+					"Understand the Similarities and Differences Between Management Accounting and Financial Accounting",
+					"Appreciate that Economics is not just to Economise but the study of Mankind's Activities",
+					"To Appreciate the Rational and Irrational Behavior of Consumers",
+					"To know the Importance of Opportunities Cost",
+					"Appreciate the Basic Economic Problems of the Society Like: What to Produce, How to Produce and to Whom to Produce",
+					"Appreciate Import and Export Business and the Importance of Agriculture and Banking",
+					"Meaning of Personnel Management",
+					"Functions of Personnel Department",
+					"Origin and Development of Personnel Management in Nigeria",
+					"Recruitment Selection and Placement",
+					"Promotion, Transfer, Lay off and Demotion",
+					"Incentives and Fringe Benefits",
+					"Collective Bargain",
+					"Entrepreneurship and Establishment of a new Business",
+					"The Nature of a Small Business",
+					"Relevance of Small Scale Business in Nigeria",
+					"Problems of Small Business in Nigeria",
+					"Frustration of Self Employment",
+					"Reward of Self Employment",
+					"Feasibility Studies (Business Plan)"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Security and safety management",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Appreciate the Professional Role of Corporate Security and Safety Men in Organizations",
+					"Understand how Security Impacts on Organization Profitability, Growth and Long Term Survival",
+					"Establish the Difference Between National and Corporate Security Environment",
+					"Be able to Effectively Manage Security and Safety Duties of Organizations in Various Sector of any Economy",
+					"Use the Knowledge acquired to Prevent Organizational Crime, Improve Security Situation and Guarantee the Safety of Lives and Properties",
+					"Apply for the Post of Security and Safety Manager, Supervisor, Officer or any other Senior Security and Safety Related Positon in Industries and other Establishments",
+					"Train, Recruit, Deploy and Supervise Security Operatives. Set up and Manage Corporate Security Outfit",
+					"Function as Security Adviser and Chief Security Officers to Government functionaries, Captains of Industries and Chief Executives of Multinational Firms",
+					"Fit into Industrial Security and Safety Consultancy Services",
+					"Perform any other Function Synonymous with Security, Safety and Crime Prevention"
+
+				],
+				"coursesoutline": [
+					"Security Operation and Management",
+					"Definition, Scope Principles and Ethics of Security",
+					"Security Operations and Management Guidelines",
+					"Functions of Security",
+					"Security Patrol Procedure",
+					"Threat Handling Techniques",
+					"Espionage, Causes and Prevention",
+					"Security's Responsibilities in Background Check",
+					"Surveillance and Intelligence Functions",
+					"Key Effective Leadership and Management of Security Functions",
+					"Third Party {Contract Security}",
+					"Management Skills",
+					"Procedure for Recruitment of Security Guards",
+					"Report Writing and Documentation",
+					"Building and Management Relationship at work {Security and Public Relations}",
+					"Security Liasion with Law-Enforcement Agencies and Regulatory Authorities",
+					"Executive Protection Techniques",
+					"Method of Organizing Security Outfit",
+					"Corporate Investigation Procedure Sabotage, Detection, Prevention & Control",
+					"Challenges of Security Management in Specialized Sectors",
+					"Why Security Fails",
+					"Health Safety and Environment",
+					"Hazards, Accidents and Personal Protective Equipment",
+					"Fire Safety Principles (1, 2 and 3)",
+					"History of Occupational Disease/Accident,Tobacco and Tobacco Smoking (1 and 2) and Control (1, 2 and 3) Alcohol and the Body",
+					"First Aid",
+					"Material Handling",
+					"Heat Stresses and Disorders",
+					"Chemical Air Pollution and their Health",
+					"Effect (1 and 2)",
+					"Health Safety Environment Manage-ment System",
+					"Defensive Driving and Journey Management",
+					"Water and Biological Life",
+					"Personal Survival and Rescue in Water",
+					"Crime Prevention and Control",
+					"Theories of Crime and Criminal Behaviour",
+					"Characteristics of Criminological Theories Element of Criminal Investigation",
+					"Security Administration and Management Classification of Crime",
+					"Conflict Introduction",
+					"Nigeria Criminal Justice System 1 vol.ii",
+					"Why do we Punish?"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Entrepreneurship and General Studies",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Entrepreneurship Principles and Development",
+					"How Small Business can be set up",
+					"The Basic Principles of Business",
+					"To know the Characteristics of Entrepreneurs /Personal Entrepren¬eurship Competencies",
+					"To know the Operation of Different types of Business Organizations",
+					"To know the Principles of Record Keeping and Store Keeping",
+					"To Generate Self Employment by Setting up Small-Scale Establishments",
+					"To know the Methods and Sources of Funding a Small Business in a given Situation",
+					"To know the Principles of Costing, and Estimating and their Application to the Given Situation",
+					"To Know the Application of Information Technology and Electronic Business",
+					"To know What Constitute a Good Retirement Plan"
+
+				],
+				"coursesoutline": [
+					"Define or Describe Entrepreneurship Principles and Development",
+					"Explain the Traits and Characteristics of Entrepreneurs",
+					"Review the History of some Nigerian Entrepreneurs",
+					"Explain the types of Business Ownership Organizations; Sole Trader, Partnership, and Limited Liability Company",
+					"Discuss the Basic Steps in Setting up Small Scale Business",
+					"Explain the 6ms of Management, That is: Man, Machine, Materials, Money, Market and Method",
+					"The Functions of Management and how to apply them",
+					"Factors to be Considered in Designing Organization Structure",
+					"Management Theories",
+					"Modern Management Approach (Total Quality Management)",
+					"The Delegated Authority, and Management by Objectives",
+					"Sources of Funding Small and Medium Scale Enterprises",
+					"Available Sources of Short Term, Medium Term and Long Term Capital",
+					"Sources of Fund set up by various Government Agencies to support Small and Medium Scale, Enterprises",
+					"The Roles and Benefits of the following: SMEDAN, NERFUND etc",
+					"Understanding the Prospects and Problems Facing Small Scale and Medium Enterprises in Nigeria",
+					"Prospects of Small Scale and Medium Enterprises in Nigeria",
+					"The Problems facing Small and Medium Enterprises in Nigeria",
+					"The Role of Government in Promoting Small Scale Business in Nigeria",
+					"Business Law for Nigeria Entrepreneur",
+					"Definition and Sources of Nigeria law",
+					"The Law of Contract",
+					"The Sale of Goods Contract",
+					"Agency",
+					"Hire Purchase",
+					"Legal requirements in Setting up Small an d Medium Scale Business",
+					"Understanding the Importance and Principles of Record Keeping in Small Enterprise",
+					"Importance of Record Keeping and the Benefits",
+					"The Types of Accounting Records in Small Scale Scale Enterprise and their Uses. e.g- Pay Rolls, Inventories, Tax, Insurance, Journals, Ledger, Receipts, Double Entry, Profit and Loss Accounts and Balance Sheet",
+					"The Administration Records to keep and their uses: Staff Nominal Rolls; Public Relation; Statutory Regulations and Government Records",
+					"Marketing Records and their uses: Stock of Financial Goods, List of Regular Customers, Record of Sales, and Advertisement and Promotional Efforts",
+					"Understanding the method of Costing and Pricing in Small Scale Enterprises",
+					"The Objectives of Costing and Pricing in Small Enterprise",
+					"State The Difference between Costing and Pricing",
+					"The Different kinds of Costing and its Influence on Pricing",
+					"State The Factors that Influence Pricing",
+					"Understanding the impoktance of Marketing and the Techniques for Effective and Profitable Selling",
+					"Explain the Importance of Marketing to Business Enterprise",
+					"Explain the various Methods for Promoting one's goods",
+					"The Various Forms of Advertisements and their Impact on Customers",
+					"Describe the Marketing Mix of Price, Product, Promotion, Place and how to apply them to attain the Marketing Objectives",
+					"Qualities of Sales Man and how to Select Good ones",
+					"Explain the need to meet Customer's Delivery Date",
+					"Describe the General Procedure for Handling Customer's Complaints and Dispatch Problems",
+					"Describe the General Follow up Procedure for Processing Services",
+					"How Customers Needs could be met at Minimum cost",
+					"The Principles of Financial Management",
+					"Explain the Principles of Book Keeping and how to keep the following journals:Sales, Purchases, Cash and General",
+					"Preparation of Financial Accounts (Profit and Loss Accounts for Trading and Manufacturing)",
+					"Describe the Methods of Depreciation Provisions, Reserve and Replacement for a given Industry",
+					"Explain the Meaning and the Relationship between Direct Cost, Indirect Cost and Overhead Cost",
+					"Personnel Management for the Entrepreneur",
+					"Personnel Policies and Objectives",
+					"Manpower Planning",
+					"Recruitment, Selection and placement",
+					"Training and Development",
+					"Performance Appraisal, Promotion",
+					"Transfer and Retirement",
+					"Wages and Salaries",
+					"Employees Safety",
+					"Discipline and Dismissal",
+					"Industrial Relations and Collective Bargaining",
+					"Information Technology and Electronic Business",
+					"Introduction to Computer Application Packages Available to the Present day Business Manager",
+					"Introduction to Electronic Business",
+					"Developing Business Plan",
+					"Introduction to Research Methodology",
+					"Brief Participants on How to Develop Feasibility Study on a small Scale business enterprise",
+					"Understanding the Importance of Good Retirement Plan",
+					"Retirement grand challenge and change management",
+					"Emotional intelligence and social re¬entry",
+					"Explain the Necessary Steps to take when Planning for Retirement",
+					"The importance of Commencing Retirement Plan from the Date of Employment",
+					"The need for Civil Career Certification while in Service",
+					"Sourcing for Fund to Sustain the Standard of living of Retirees and their Family",
+					"The importance of owning a Home in Retirement",
+					"Overcoming the Fears of Retirement",
+					"Stress Management in Retirement",
+					"Healthy Living in Retirement",
+					"Cushioning the Effects of Pension Scheme"
+
+				],
+				"duration": "14 weeks"
+			}
+		]
+	},
+
+	{
+		"wingname": "Soap & Cosmetic Wing",
+		"wingbana": "sop.jpg",
+		"department": "Department In Soap & Cosmetic Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Production of Soap and Cosmetic Items</div>"
+
+
+		],
+
+		"course": [{
+				"coursetitle": "Production of Soap and Cosmetic Items",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"By the end of the course participants are expected to have been fully equipped with vocational knowledge in Soap and Cosmetics Production for both Domestic and Commercial use"
+
+
+				],
+				"coursesoutline": [
+					"Soap",
+					"Introduction of the materials",
+					"Introduction of the soap machines and Equipments",
+					"Safety Precautions",
+					"Introduction to measurement and Soap formula",
+					"Production of Soap{Toilet, Liquid, Detergent, Herbal Laundry} etc",
+					"Costing",
+					"Cutting and Stamping of Soap",
+					"Production of Palm Kernel Oil",
+					"Group Production of Toilet and Medicated Soap",
+					"Group Production of Aloe Vera Soap and Melting",
+					"Production of Candle and Mosquitoes Repellents",
+					"Chalk Production",
+					"Production of Menthol",
+					"Production of Perfume & Jelly Cream",
+					"Production of Cosmetics",
+					"Production of Powder",
+					"Making of Toilet Cleanser",
+					"Hair Treatment"
+
+				],
+				"duration": "6 Months"
+			}
+
+		]
+	},
+
+
+	{
+		"wingname": "Music Department Wing",
+		"wingbana": "mus.jpg",
+		"department": "Department In Music Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Introduction To Music</div>"
+
+
+		],
+
+		"course": [{
+			"coursetitle": "Introduction To Music",
+			"banaimage": "gen_df.jpg",
+			"courseobjective": [
+				"Understand the Meaning of Music, its Elements and Importance vis a vis Human Existence",
+				"Know the Basic Rudiments of Music which is important for the General Course",
+				"Identify various Musical Instruments, their Peculiar Sounds and Behaviours",
+				"Each student would be expected to be able to sing to sounds on the instruments having heard their melodic flows and alternations",
+				"Know the Chordal Movements on the instrument (keyboard) and how to use them to accompany vocal musical sounds",
+				"Identify Various Rhythmic Beats, Sing or Play to them",
+				"Know the Technicalities of Instrumental Purchases, Sales, Rentage and their Management",
+				"Handle Musical Productions in the studio and also venture into Music Marketing"
+
+
+			],
+			"coursesoutline": [
+				"Definition of Music",
+				"The Basic History of Music",
+				"The uses and Importance of Music",
+				"Musical Notes and their Values",
+				"Basic Rudiments of Music",
+				"Musical Instruments and their Sounds",
+				"Aural Perception",
+				"Musical Sounds and Accompaniments",
+				"The Time Signature",
+				"Instrumental Management and Entrepreneurship",
+				"Music production and Studio Management"
+
+			],
+			"duration": "6 Months"
+		}]
+
+	},
+	{
+		"wingname": "Wood Work Wing",
+		"wingbana": "wd.jpg",
+		"department": "Departments i Wood Work Wing",
+		"departmentlist": [
+			"<div class='wing-tab wasa'>Carpentry & Joinery</div>",
+			"<div class='wing-tab wasa'>Furniture Design and Construction</div>",
+			"<div class='wing-tab wasa'>Machine Wood Work {CMW 10, CMW 15 & 16 Spindle/Moulding Wood Machine</div>"
+
+		],
+
+		"course": [
+
+
+			{
+				"coursetitle": "Carpentry & Joinery",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"To read and use matric rule",
+					"To use and maintain the common tools of carpentry viz plaries, saw, marking out tools, screwdrivers and spokes have chisels all in their various types and sizes ",
+					"To make simple joint used in carpentry viz Bridble joints mortise and tenon joints, doveteailing, grooving 7 rebating, various housing technics.Card must be able to apply them on jobs",
+					"To mark out and construct sash windows with cross-headed joints at the bars with scribing and mitraing and also make provision for timber movements in the provision of throathing and weathering",
+					"To set out and make framed ledged and pattern door using widering joints viz. Tongu and groove but dowelled joints, and preparation and use of adhesives",
+					"To fit and fix windows and doors and all the necessary immonmongaries required",
+					"To do natural seasoning and recognize seasoning in timbers and way to prevent them. Must also be conversant with the timber defects and know the various way to preservation",
+					"To construct tables and stools apply the various joints applicable to the job, must also know about slotted battens",
+					"To know something about various woodwork machines, safety precautions on them and in the machine shop",
+					"To mark out and construct cupboard carcates with drawers be able to fix drawer locks ball catches, bolt",
+					"To differentiate manmade boards and their composition, types, gauges and sizes of screws and nuts"
+
+
+				],
+				"coursesoutline": [
+					"Description of Tools, Machines and Equipment",
+					"Fundamentals of Machine Woodworking",
+					"Spindle",
+					"Moulding",
+					"Routing and Jig Sawing",
+					"Sawing Milling Practice",
+					"Wood Turning",
+					"Special Advanced Machine Wood Working",
+					"Tool Room Machine and Equipment"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Carpentry & Joinery",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"To read and use matric rule",
+					"To use and maintain the common tools of carpentry viz plaries, saw, marking out tools, screwdrivers and spokes have chisels all in their various types and sizes ",
+					"To make simple joint used in carpentry viz Bridble joints mortise and tenon joints, doveteailing, grooving 7 rebating, various housing technics.Card must be able to apply them on jobs",
+					"To mark out and construct sash windows with cross-headed joints at the bars with scribing and mitraing and also make provision for timber movements in the provision of throathing and weathering",
+					"To set out and make framed ledged and pattern door using widering joints viz. Tongu and groove but dowelled joints, and preparation and use of adhesives",
+					"To fit and fix windows and doors and all the necessary immonmongaries required",
+					"To do natural seasoning and recognize seasoning in timbers and way to prevent them. Must also be conversant with the timber defects and know the various way to preservation",
+					"To construct tables and stools apply the various joints applicable to the job, must also know about slotted battens",
+					"To know something about various woodwork machines, safety precautions on them and in the machine shop",
+					"To mark out and construct cupboard carcates with drawers be able to fix drawer locks ball catches, bolt",
+					"To differentiate manmade boards and their composition, types, gauges and sizes of screws and nuts"
+
+
+				],
+				"coursesoutline": [
+					"Description of Tools, Machines and Equipment",
+					"Fundamentals of Machine Woodworking",
+					"Spindle",
+					"Moulding",
+					"Routing and Jig Sawing",
+					"Sawing Milling Practice",
+					"Wood Turning",
+					"Special Advanced Machine Wood Working",
+					"Tool Room Machine and Equipment"
+
+				],
+				"duration": "6 Months"
+			},
+			{
+				"coursetitle": "Furniture Design and Construction",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Know the Theory and Practice of Furniture Design",
+					"Have the Basic Knowledge and on the job experience about the Trade"
+
+
+
+				],
+				"coursesoutline": [
+					"Introduction to Metric System of Measurement and its Application to Furniture Construction Ripping, Cutting Planning and Preparing Timber Pieces to given sizes for Constructional Purposes",
+					"The various Forms of Joints Used in Furniture Construction and their Special Applications",
+					"The Different types of Timbers used in Furniture Making, their Properties and Uses",
+					"Other materials Used in Furniture Construction, e.g. Leather, Foams Fabrics, Manufactures Boars Furniture Fitting and Methods of Securing them Costing of jobs;. Materials and Labour Charges",
+					"Construction of Simple Items of Furniture such as Tables, Chairs, Beds Room Dividers and Simple Upholstery Works",
+					"Care and Maintenance of Existing Furniture Works"
+
+
+
+				],
+				"duration": "6 Months"
+
+			},
+			{
+				"coursetitle": "Machine Wood Work{CMW 10, CMW 15 & 16 Spindle/Moulding Wood Machines}",
+				"banaimage": "gen_df.jpg",
+				"courseobjective": [
+					"Understand the Principles of Operation of the Vertical Spindle Molder and be able to use the Machine to Produce various moulding in wood work",
+					"Maintain and Repair the Spindle Moulding machine",
+					"Understand the Features and basic and principles of operation of Wood Turning Lathes",
+					"Know the various wood turning tools uses and techniques of sharpening them",
+					"Carry out Wood Tuning Operations Using Handwood Lathe or Automatic Wood Lathe",
+					"Understand the Principles of the Jig Saw and be able to use it for internal and external curved pattern work",
+					"Know the Working Principle of High Speed Router, and be able to use the machine to carry out various woodworking processes. Maintain the Jig Saw and High Speed Router"
+
+				],
+				"coursesoutline": [
+					"Explain the principles of operation of a Vertical Spindle Moulder",
+					"Describe Major features of Design of the Vertical Spindle Molder",
+					"Identify the various cutter heads and accessories for the machine and state their specific uses List Hazards Connected with the use of the Spindle Moulder and identify their Potential Causes",
+					"Outline the Safety and Operational Precautions in the use of the Spindle Moulder and Undertake the Routine Application",
+					"Explain the Principle of Positive and Negative Angle in Relation to the Cutting of Hard Soft Wood",
+					"Produce Straight Moulding using the available Cutter Heads",
+					"Perform Simple Shaping Operations using the Cylindrical Cutter Blocks in conjunction with the Relevant for Curved Works",
+					"Carry out Exercises involving Fluting and Reeding",
+					"Mould Curved Work using appropriate Cutter Blocks with Suitable Jigs",
+					"Carry out Stopped Work Moulding on the Spindle",
+					"Develop Geometrically True Shape of Cutter Profile",
+					"Prepare Setting Templates for use on the Various Heads",
+					"Carry out Exercises involving Grinding of Cutters to Shape",
+					"Set Cutters in the various Blocks using the Constructed Templates",
+					"Explain the Principles of the Wobble Saw and carry out Grooving Exercises",
+					"Produce Various types of Tongue and Groove Boarding",
+					"Produce Basic Joints used in Woodwork: such as Dovetailing, Tenoning Corner Locking Stair String Trenching",
+					"Explain the Purpose of Various Speeds in Relation to the Cutter Heads"
+
+
+
+				],
+				"duration": "6 Months"
+			}
+		]
+	}
+]

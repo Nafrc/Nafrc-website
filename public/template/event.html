@@ -1,0 +1,29 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="faceone-tilte text-center ">
+              NAFRC Events
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        
+         <div class="col-md-3" ng-repeat="event in nafrcjsondata.events">
+            <div class="cmd-box">
+              <div class="card">
+                <img class="card-img-top" src="images/events/{{event.image}}" alt="Card image cap">
+                <div class="card-body">
+                 <span class="text-justify">{{event.info}}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        
+          
+          
+    </div>
+    
+</div>
+
